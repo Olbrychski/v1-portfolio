@@ -44,7 +44,7 @@ const Navigation = ({aboutRef, educationRef, experienceRef, projectsRef, contact
       };
 
     return ( <div>
-        <ul class="sticky top-0 z-50 flex font-mono pt-5 px-5 pb-5 md:p-3 shadow-sm shadow-blue-500">
+        <ul class="sticky top-0 z-50 flex font-mono pt-5 px-5 pb-5 md:p-3 shadow-sm shadow-slate-200">
             <div class="flex w-full md:basis-1/2 items-center justify-between">
                 <li class='md:pl-12'>
                     <img src={require('../images/letter-f1.png')} alt="" />
