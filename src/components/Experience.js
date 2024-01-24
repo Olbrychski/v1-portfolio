@@ -6,10 +6,10 @@ const Experience = ({experienceRef}) => {
         <div class="md:flex hidden md:visible justify-center p-10">
             <table class="p-5 mx-16">
                 <tr class="p-5 border-b-4 border-double hover:bg-slate-200">
-                    <td class="p-5 text-xl font-mono">Hackerone</td>
+                    <td class="p-5 text-xl font-mono">Konza Technopolis</td>
                     <td class="p-5">
-                        <h1 class="text-xl text-black font-sans">Web Application Pentester (Bug Bounty)</h1>
-                        <h2 class="text-lg font-mono">Jun 2021 - Present</h2>
+                        <h1 class="text-xl text-black font-sans">Software Developer</h1>
+                        <h2 class="text-lg font-mono">December 2023 - Present</h2>
                         <ul class="list-disc text-black font-sans pt-4">
                             <li>Finding and reporting vulnerabilities in websites and applications.</li>
                             
