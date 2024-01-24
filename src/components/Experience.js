@@ -11,7 +11,9 @@ const Experience = ({experienceRef}) => {
                         <h1 class="text-xl text-black font-sans">Software Developer</h1>
                         <h2 class="text-lg font-mono">December 2023 - Present</h2>
                         <ul class="list-disc text-black font-sans pt-4">
-                            <li>Finding and reporting vulnerabilities in websites and applications.</li>
+                            <li>Designed and implemented scalable software solutions using agile methodologies, 
+                                ensuring adherence to coding standards and best practices</li>
+                            <li>Experienced in Python IDE such as PyCharm, Sublime text.</li>
                             
                         </ul>
 
