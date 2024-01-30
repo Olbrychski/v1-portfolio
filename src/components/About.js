@@ -18,7 +18,7 @@ const About = ({aboutRef, projectsRef}) => {
                 
                 <div class="flex flex-col space-y-4 "><h4 class="text-blue-500 text-lg font-mono font-medium"> Hi, my name is</h4></div>
                 <div class="flex flex-col space-y-4 "><h1 class="text-black text-3xl md:text-7xl font-sans font-bold pt-5">Frank Osoro.</h1></div>
-                <div class="flex flex-col space-y-4 "><h2 class="text-slate-400 text-xl md:text-5xl font-sans font-semibold pt-1 md:pt-3">I build, break & protect</h2></div>
+                <div class="flex flex-col space-y-4 "><h2 class="text-slate-400 text-xl md:text-5xl font-sans font-semibold pt-1 md:pt-3">I build, break & protect!</h2></div>
                 
 
                 <div class="pt-5 md:pt-10 text-sm md:text-lg text-black font-mono">
